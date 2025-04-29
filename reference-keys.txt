@@ -1,4 +1,1 @@
 create-your-open-textbook
-introduction
-the-messy-middle
-conclusion
