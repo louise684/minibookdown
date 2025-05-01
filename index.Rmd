@@ -8,4 +8,4 @@ classoption: openany
 
 # Create your open textbook
 
-Hello, world!!!
+I'll write some things that are useful here. 
